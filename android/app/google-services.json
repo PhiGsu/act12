@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "150296185793",
+    "project_id": "mad-act12",
+    "storage_bucket": "mad-act12.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150296185793:android:fddf47cdcdc4845862bd40",
+        "android_client_info": {
+          "package_name": "com.example.act12"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEmxvkTQwYhgFlKkouQ0NUAUbp9F4-XIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
